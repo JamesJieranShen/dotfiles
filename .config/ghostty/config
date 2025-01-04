@@ -1,0 +1,7 @@
+theme = "/usr/share/ghostty/themes/DoomOne"
+font-size = 14
+keybind = ctrl+backslash=new_split:right
+keybind = ctrl+minus=new_split:down
+keybind = ctrl+shift+plus=increase_font_size:1
+keybind = ctrl+shift+minus=decrease_font_size:1
+keybind = ctrl+shift+0=reset_font_size
